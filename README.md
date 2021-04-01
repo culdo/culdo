@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Jun Hu(胡鈞)👋, now pursuing the bachelor degree of Intellgent Robotics on Nation Pingtung University.
+I'm Jun Hu(胡鈞)👋, now pursuing the bachelor degree of Intellgent Robotics on Nation Pingtung University of Taiwan.
 
-- 🌱 I love coding, and build so many side-projects just for fun. 
+- 🌱 I love coding and Unix-like software, and make a lot of side-projects opened on Github. 
 - ⚡ My favorite news site is Hacker News. 
-- 💡 I'm now interesting in Blockchain and Git commit chain combination.
+- 💡 I'm now interesting in Blockchain and Git commit chain combination (just like Gitcoin).
 
 
 <!--
