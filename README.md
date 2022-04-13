@@ -2,7 +2,7 @@
 
 - 🌱 I love coding and Unix-like software, and make a lot of side-projects shared on Github. 
 - ⚡ My favorite news site is Hacker News. 
-- 💡 I'm now interesting in Blockchain and Git commit chain combination.
+- 💡 I'm now interesting in Startups.
 
 
 <!--
