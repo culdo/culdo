@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jun Hu(胡鈞)
 
-- 🌱 I love coding and Unix-like software, and make a lot of side-projects shared on Github. 
+- 🌱 I love coding and Unix-like software, and make a lot of side-projects shared on GitHub. 
 - ⚡ My favorite news site is [Hacker News](https://news.ycombinator.com/). 
 - 💡 I'm now interesting in Startups.
 
